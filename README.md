@@ -23,7 +23,7 @@
 
 - 🤔 I’m looking for help with **UI/UX Web Design in Odoo**.
 
-- 💬 Ask me about **Odoo,Python,ERP,Git**.
+- 💬 Ask me about **Odoo, Python, ERP, GitHub**.
 
 - 📫 How to reach me: @palkesh_baraiya
 
