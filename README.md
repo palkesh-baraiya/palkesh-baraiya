@@ -21,11 +21,11 @@
 
 - 🌱 I’m currently learning **Software Design Patterns**.
 
-- 🤔 I’m looking for help with **UI/UX of []()**.
+- 🤔 I’m looking for help with **UI/UX Web Design in Odoo**.
 
-- 💬 Ask me about **Odoo, Python, ERP, git**.
+- 💬 Ask me about **Odoo,Python,ERP,Git**.
 
-- 📫 How to reach me: @palkesh-baraiya
+- 📫 How to reach me: @palkesh_baraiya
 
 - 😄 Pronouns: He/Him/His
 
